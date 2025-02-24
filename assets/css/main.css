@@ -2112,8 +2112,8 @@
 	}
 
 		a:hover {
-			border-bottom-color: #6666ff;
-			color: #6666ff !important;
+			border-bottom-color: #e6e6ff;
+			color: #e6e6ff !important;
 		}
 
 			a:hover strong {
@@ -2826,11 +2826,11 @@
 					}
 
 						ul.pagination li > .page.active:hover {
-							background-color: #6666ff;
+							background-color: #e6e6ff;
 						}
 
 						ul.pagination li > .page.active:active {
-							background-color: #6666ff;
+							background-color: #e6e6ff;
 						}
 
 				ul.pagination li:first-child {
@@ -2975,7 +2975,7 @@
 		input[type="button"]:hover,
 		button:hover,
 		.button:hover {
-			background-color: #ccccff;
+			background-color: #e6e6ff;
 		}
 
 		input[type="submit"]:active,
@@ -2983,7 +2983,7 @@
 		input[type="button"]:active,
 		button:active,
 		.button:active {
-			background-color: #ccccff;
+			background-color: #e6e6ff;
 		}
 
 		input[type="submit"].icon:before,
@@ -3037,7 +3037,7 @@
 			input[type="button"].special:hover,
 			button.special:hover,
 			.button.special:hover {
-				background-color: #ccccff;
+				background-color: #e6e6ff;
 			}
 
 			input[type="submit"].special:active,
@@ -3987,7 +3987,7 @@
 		}
 
 			#menu ul a:hover, #menu ul span:hover {
-				color: #6666ff;
+				color: #e6e6ff;
 			}
 
 			#menu ul a.opener, #menu ul span.opener {
