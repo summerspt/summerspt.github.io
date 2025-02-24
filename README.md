@@ -1,6 +1,6 @@
 # (WIP) Editorial - Jekyll Theme
 
-A Jekyll version of the "Editorial" theme by [HTML5 UP](https://html5up.net/).
+A Jekyll version of the "Editorial" theme by [HTML5 UP](https://html5up.net/). Updated by Paul Summers for use in a website building demo.
 
 ![Editorial Theme](assets/images/screenshot.jpg "Editorial Theme")
 
